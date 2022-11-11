@@ -1,4 +1,9 @@
-### Hi there 👋
+##Computer Engineer at the University of Michigan
+I am interested in:
+ -  Computer Architecture
+ -  Operating Systems
+ -  Embeded Systems
+ -  Low Level Programming in general
 
 <!--
 **zcbauer/zcbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
