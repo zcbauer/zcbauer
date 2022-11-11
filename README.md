@@ -1,4 +1,4 @@
-## Computer Engineer at the University of Michigan
+## Computer Engineering Student at the University of Michigan Ann Arbor
 I am interested in:
  -  Computer Architecture
  -  Operating Systems
