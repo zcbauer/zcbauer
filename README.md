@@ -1,4 +1,4 @@
-##Computer Engineer at the University of Michigan
+## Computer Engineer at the University of Michigan
 I am interested in:
  -  Computer Architecture
  -  Operating Systems
