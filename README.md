@@ -1,9 +1,7 @@
-## Computer Engineering Student at the University of Michigan Ann Arbor
+## Electrical and Computer Engineering Masters Student at the University of Michigan Ann Arbor
 I am interested in:
- -  Computer Architecture
- -  Operating Systems
+ -  Analog Amplifiers
  -  Embeded Systems
- -  Low Level Programming in general
 
 <!--
 **zcbauer/zcbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
